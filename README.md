@@ -34,6 +34,14 @@ Python para analise e organização de dados, usando inteligência artificial ge
 
 
 ---
+##  Card de Perfil - Giulia Castro
+
+Este é um projeto de **card de perfil profissional**, desenvolvido com HTML e CSS, com foco em design moderno, organização de conteúdo e responsividade.
+
+🔗 Acesse o projeto online:
+👉 https://giuliacaxtro.github.io/card-perfil/
+
+---
 
 ## 📱 Projeto Android
 
