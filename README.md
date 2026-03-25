@@ -13,8 +13,10 @@ GitHub: https://github.com/GiuliaCaxtro
 
 # Sobre 
 Desenvolvedora buscando a primeira oportunidade de estágio.
-ConhecimentosDesenvolvimento de projetos Front-End utilizando HTML, CSS e JavaScript, com prática em estruturação, estilização e interatividade de páginas web. 
-Conhecimento básico em Python. Estudo contínuo de tecnologias modernas e interesse em evolução para React e Node.js, visando atuação Full-Stack. 
+ConhecimentosDesenvolvimento de projetos **Front-End** utilizando **HTML, CSS e JavaScript**, com prática em estruturação, estilização e interatividade de páginas web. 
+
+- Conhecimento básico em Python. 
+- Estudo contínuo de tecnologias modernas e interesse em evolução para React e Node.js, visando atuação Full-Stack. 
 
 ## Educação  
 
