@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-# 🌐 O impacto e o futuro da IA ​​na memória e na educação
 
- O material abordado analisa a integração da Inteligência Artificial (IA) no ambiente educacional, equilibrando as oportunidades de inovação com os riscos éticos e cognitivos envolvidos
-
-## 🧠 Por que eu escolhi esse tema?
-
-A Inteligência Artificial está cada vez mais presente na educação, mas será que isso é só positivo?
-
-Durante meus estudos, comecei a perceber algo curioso:
-quanto mais fácil fica obter respostas, menos esforço fazemos para aprender de verdade.
 =======
 # Giulia Castro dos Reis da Silva
 Desenvolvedora Front-End | HTML | CSS | JavaScript | Python
