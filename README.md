@@ -38,7 +38,7 @@ Cada projeto foi feito com foco em aprender conceitos específicos do desenvolvi
 <img src="readme_img/Screenshot_7.png" alt="Logo" width="320" height="350" />
 </p>
 
-🔗 Acessar pagina: https://giuliacaxtro.github.io/Meus-projetos/projeto-netflix/
+🔗 Acessar pagina: https://giuliacaxtro.github.io/projeto_netflix/
 
  Acessar repositorio: https://github.com/GiuliaCaxtro/Meus-projetos/blob/main/projeto-netflix
 
@@ -74,7 +74,7 @@ Ele simula a tela de seleção de perfis da Netflix, com foco em **interface mod
 
 Projeto de **card de perfil profissional** desenvolvido com HTML e CSS, focado em design moderno, organização e responsividade.
 
-🔗 Acesse: https://giuliacaxtro.github.io/card-perfil/
+🔗 Acesse: https://giuliacaxtro.github.io/projeto_card-perfil/
 
 Acesso repositório do projeto: https://github.com/GiuliaCaxtro/card-perfil
 
@@ -110,7 +110,7 @@ Acesso repositório do projeto: https://github.com/GiuliaCaxtro/card-perfil
 </p>
 
 🔗 **Acessar projeto:**
-https://giuliacaxtro.github.io/Meus-projetos/projeto-android/
+https://giuliacaxtro.github.io/projeto_android/
 
 Este projeto foi criado do zero com **HTML e CSS**.
 O objetivo foi praticar a **estrutura de um site completo**, trabalhando com:
@@ -132,7 +132,7 @@ Python para analise e organização de dados, usando inteligência artificial ge
 ## 📜 Projeto Cordel
 
 🔗 **Acessar projeto:**
-https://giuliacaxtro.github.io/Meus-projetos/projeto-cordel/
+https://giuliacaxtro.github.io/projeto_cordel/
 
 Neste projeto eu pratiquei principalmente:
 
@@ -140,20 +140,6 @@ Neste projeto eu pratiquei principalmente:
 * Uso de background no CSS
 * Efeitos visuais em seções da página
 * Estilização de texto estilo cordel
-
----
-
-## 🔗 Projeto Páginas
-
-🔗 **Acessar projeto:**
-https://giuliacaxtro.github.io/Meus-projetos/projeto-paginas/
-
-Este projeto foi feito para aprender:
-
-* Links externos
-* Navegação entre múltiplas páginas
-* Estrutura de navegação em um site
-* Organização de arquivos HTML
 
 ---
 
