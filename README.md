@@ -95,4 +95,4 @@ Este projeto foi feito para aprender:
 
 ---
 
-📚 Estes projetos fazem parte do meu processo de aprendizado em **desenvolvimento web**.
+📚 Estes projetos fazem parte do meu processo de aprendizado em **desenvolvimento web**
