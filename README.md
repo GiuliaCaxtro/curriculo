@@ -14,9 +14,16 @@ Esse projeto nasceu justamente dessa inquietação:
  
 ![image alt](https://github.com/GiuliaCaxtro/miniguia-estudos-IA-nas-escolas/blob/1cdcead79073e80504e73ff49afe00f1fb2ffaef/unnamed.png)
 
+<<<<<<< HEAD
 ##         Objetivo do projeto
 
 Este repositório tem como objetivo investigar, na prática:
+=======
+# Sobre 
+Desenvolvedora buscando a primeira oportunidade de estágio.
+ConhecimentosDesenvolvimento de projetos Front-End utilizando HTML, CSS e JavaScript, com prática em estruturação, estilização e interatividade de páginas web. 
+Conhecimento básico em Python. Estudo contínuo de tecnologias modernas e interesse em evolução para React e Node.js, visando atuação Full-Stack. 
+>>>>>>> parent of 2409c67 (Update README with improved formatting)
 
 - Como a IA impacta o aprendizado dos estudantes
 - Quais são os principais riscos (memória, pensamento crítico, dependência)
