@@ -40,7 +40,7 @@ Cada projeto foi feito com foco em aprender conceitos específicos do desenvolvi
 
 🔗 Acessar pagina: https://giuliacaxtro.github.io/projeto_netflix/
 
- Acessar repositorio: https://github.com/GiuliaCaxtro/Meus-projetos/blob/main/projeto-netflix
+ Acessar repositorio: https://github.com/GiuliaCaxtro/projeto_netflix
 
 Este projeto foi desenvolvido durante a **Imersão Front-End na Era da IA da Alura**.
 
@@ -76,7 +76,7 @@ Projeto de **card de perfil profissional** desenvolvido com HTML e CSS, focado e
 
 🔗 Acesse: https://giuliacaxtro.github.io/projeto_card-perfil/
 
-Acesso repositório do projeto: https://github.com/GiuliaCaxtro/card-perfil
+Acesso repositório do projeto: https://github.com/GiuliaCaxtro/projeto_card-perfil
 
 ### 🚀 Tecnologias
 
